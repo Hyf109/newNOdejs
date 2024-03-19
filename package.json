@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyf109/newNOdejs.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "huy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyf109/newNOdejs/issues"
+  },
+  "homepage": "https://github.com/Hyf109/newNOdejs#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
